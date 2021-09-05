@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<accounts>
+    <account>
+        <name>Nada</name>
+        <lastName>Tandaric</lastName>
+        <email>nada@gmail.com</email>
+        <phone>1223- 458</phone>
+
+    </account>
+</accounts>
